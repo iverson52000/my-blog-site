@@ -1,5 +1,5 @@
 .techfont{
-  font-family: 'Russo One', sans-serif;
+  /*font-family: 'Russo One', sans-serif;*/
   font-size: 1.5em;
   margin-bottom: 10px;
 }
@@ -9,7 +9,7 @@
 }
 
 .posttitle{
-  font-family: 'Russo One', sans-serif;
+  /*font-family: 'Russo One', sans-serif;*/
   font-size: 3em;
   text-align: center;
 }
@@ -36,7 +36,7 @@
 
 /*COLOR CHANGER*/
 /*Credit and Source: http://codepen.io/thapliyalshivam/pen/dvgXVO*/
-.loader{
+/*.loader{
   filter:hue-rotate(0deg);
   color: linear-gradient(45deg,#0f8,#08f);
   animation:hue 5000ms infinite linear;
@@ -70,4 +70,4 @@
   0%{filter: hue-rotate(0deg);}
   100%{filter:hue-rotate(360deg);}
 
-}
+}*/
